@@ -6,7 +6,7 @@ import {
   SearchFormInput,
 } from './Searchbar.styled';
 import { GrSearch } from 'react-icons/gr';
-import PropTypes from 'prop-types';
+// import PropTypes from 'prop-types';
 
 export const Searchbar = ({ onSearchForm }) => {
   const onSubmit = e => {
